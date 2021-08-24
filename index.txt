@@ -1,1 +1,4 @@
 Home-work 1 "Using of Git commands"
+- git add index.txt
+- git commit -m "Added index.txt"
+- git remote add origin git@github.com:ivannaht/Ruby_repos_1.git
