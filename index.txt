@@ -1,1 +1,1 @@
-some-text
+Home-work 1 "Using of Git commands"
