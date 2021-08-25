@@ -11,4 +11,9 @@ Home-work 1 "Using of Git commands"
 - git checkout -- index.txt
 - git reset HEAD index.txt
 - git remote -v
-
+- git checkout -b branch_one
+- git branch
+- git checkout main
+- git branch branch_two
+- git branch -d branch_two
+- git checkout branch_one
