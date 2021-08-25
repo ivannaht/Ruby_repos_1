@@ -7,3 +7,8 @@ Home-work 1 "Using of Git commands"
 - git commit -m "Added index.txt"
 - git remote add origin git@github.com:ivannaht/Ruby_repos_1.git
 - git push -u origin main
+- git log
+- git checkout -- index.txt
+- git reset HEAD index.txt
+- git remote -v
+
