@@ -17,3 +17,5 @@ Home-work 1 "Using of Git commands"
 - git branch branch_two
 - git branch -d branch_two
 - git checkout branch_one
+- git restore index.txt
+
